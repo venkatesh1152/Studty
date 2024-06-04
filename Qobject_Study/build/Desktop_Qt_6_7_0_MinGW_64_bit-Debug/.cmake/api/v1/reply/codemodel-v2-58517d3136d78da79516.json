@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ad77422bf05c5bf7bd32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qobject_Study",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_Study::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_Study-Debug-3e902fef7147c0e690ea.json",
+					"name" : "Qobject_Study",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_Study_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_Study_autogen-Debug-34554b9b429d1d767415.json",
+					"name" : "Qobject_Study_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qobject_Study_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qobject_Study_autogen_timestamp_deps-Debug-938c50221b2ee53fe6b2.json",
+					"name" : "Qobject_Study_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Study/QT/Studty/Qobject_Study/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Study/QT/Studty/Qobject_Study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
